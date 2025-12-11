@@ -115,6 +115,7 @@ bottom: 50px;
 .contact-form button {
     padding: 10px;
     background: black;
+    color: white;  
     border: none;
     border-radius: 5px;
     cursor: pointer;
